@@ -14,5 +14,5 @@ Currently building data analytics and dashboard projects.
 - Risk Prediction Model
 
 ## 📫 Contact
-LinkedIn: (isi link kamu)
+LinkedIn: (Nabila Keiko)
 Email: (nabila.keiko22@gmail.com)
