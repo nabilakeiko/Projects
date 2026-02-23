@@ -8,10 +8,11 @@
 I am passionate about transforming raw data into meaningful business insights.
 Currently building data analytics and dashboard projects.
 
-## 📌 Portfolio Projects
-- Customer Churn Analysis
-- Sales Dashboard (Tableau)
-- Risk Prediction Model
+### 📌 Featured Projects
+
+### 📊 Customer Churn Analysis
+End-to-end churn prediction and business dashboard  
+🔗 https://github.com/nabilakeiko/customer-churn-analysis
 
 ## 📫 Contact
 LinkedIn: (Nabila Keiko)
