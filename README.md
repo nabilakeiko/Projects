@@ -2,7 +2,7 @@
 
 🎓 Fresh Graduate Informatics  – Telkom University  
 📊 Aspiring Data Analyst (Business & Operations Focus)  
-🧠 Aspiring Data Scientist
+🧠 Aspiring Data Scientist  
 🛠 Python | SQL | Tableau | Machine Learning  
 
 ## 🚀 About Me
@@ -22,5 +22,5 @@ End-to-end ML model + deployed interactive web app.
 🚀 https://huggingface.co/spaces/nabilakeiko/wfh-burnout
 
 ## 📫 Contact
-LinkedIn: (Nabila Keiko)
+LinkedIn: (Nabila Keiko)  
 Email: (nabila.keiko22@gmail.com)
