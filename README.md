@@ -14,6 +14,11 @@ Currently building data analytics and dashboard projects.
 End-to-end churn prediction and business dashboard  
 🔗 https://github.com/nabilakeiko/customer-churn-analysis
 
+### 🧠 WFH Burnout Risk Predictor
+End-to-end ML model + deployed interactive web app.
+🔗 https://github.com/nabilakeiko/Projects/tree/main/wfh-burnout-predictor
+🚀 https://huggingface.co/spaces/nabilakeiko/wfh-burnout
+
 ## 📫 Contact
 LinkedIn: (Nabila Keiko)
 Email: (nabila.keiko22@gmail.com)
