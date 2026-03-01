@@ -17,7 +17,7 @@ End-to-end churn prediction and business dashboard
 
 ### 🧠 WFH Burnout Risk Predictor
 End-to-end ML model + deployed interactive web app.  
-🔗 https://github.com/nabilakeiko/Projects/wfh-burnout-predictor  
+🔗 https://github.com/nabilakeiko/Projects/tree/main/wfh-burout-predictor   
 🚀 https://huggingface.co/spaces/nabilakeiko/wfh-burnout
 
 ## 📫 Contact
