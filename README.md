@@ -2,6 +2,7 @@
 
 🎓 Fresh Graduate Informatics  – Telkom University  
 📊 Aspiring Data Analyst (Business & Operations Focus)  
+🧠 Aspiring Data Scientist
 🛠 Python | SQL | Tableau | Machine Learning  
 
 ## 🚀 About Me
