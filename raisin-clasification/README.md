@@ -27,10 +27,7 @@ Based on morphological features:
 ---
 
 ## 📊 Model Performance
-(Add your accuracy here)
-
-Example:
-Accuracy: **97.2%**
+(89%)  
 
 ---
 
