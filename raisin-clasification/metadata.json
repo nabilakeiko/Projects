@@ -1,0 +1,19 @@
+{
+  "features": [
+    "Area",
+    "MajorAxisLength",
+    "MinorAxisLength",
+    "Eccentricity",
+    "ConvexArea",
+    "Extent",
+    "Perimeter"
+  ],
+  "target_col": "Class",
+  "classes": [
+    "Besni",
+    "Kecimen"
+  ],
+  "best_k": 6,
+  "metric": "manhattan",
+  "test_accuracy": 0.8888888888888888
+}
