@@ -22,7 +22,7 @@ End-to-end ML model + deployed interactive web app.
 
 🍇 Raisin Classification (KNN ML Project)  
 Machine learning classification & deployment project  
-🔗 https://github.com/nabilakeiko/Projects/tree/main/raisin-classification  
+🔗 https://github.com/nabilakeiko/Projects/tree/main/raisin-clasification  
 🚀 Live Demo: https://huggingface.co/spaces/nabilakeiko/raisin-classifications  
 
 ## 📫 Contact
