@@ -24,7 +24,7 @@ End-to-end ML model + deployed interactive web app.
 🔗 https://github.com/nabilakeiko/Projects/tree/main/wfh-burout-predictor   
 🚀 https://huggingface.co/spaces/nabilakeiko/wfh-burnout  
 
-🍇 Raisin Classification (KNN ML Project)  
+### 🍇 Raisin Classification (KNN ML Project)  
 Machine learning classification & deployment project  
 🔗 https://github.com/nabilakeiko/Projects/tree/main/raisin-clasification  
 🚀 Live Demo: https://huggingface.co/spaces/nabilakeiko/raisin-classifications  
