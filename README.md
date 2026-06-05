@@ -16,7 +16,7 @@ End-to-end churn prediction and business dashboard
 🔗 https://github.com/nabilakeiko/customer-churn-analysis
 
 ### 📊 E-Commerce Sales Performance and Customer Behavior Analysis
-End-to-end data analytics project using Python, SQL, and Tableau to analyze revenue trends, product performance, payment behavior, delivery issues, and customer satisfaction.
+End-to-end data analytics project using Python, SQL, and Tableau to analyze revenue trends, product performance, payment behavior, delivery issues, and customer satisfaction.   
 🔗 https://github.com/nabilakeiko/Projects/tree/main/ecommerce-sales-analysis
 
 ### 🧠 WFH Burnout Risk Predictor
